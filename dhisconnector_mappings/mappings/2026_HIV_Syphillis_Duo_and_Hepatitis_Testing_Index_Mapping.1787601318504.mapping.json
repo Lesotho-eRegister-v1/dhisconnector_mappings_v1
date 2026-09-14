@@ -1,11 +1,12 @@
 {
-    "name": "2026_HIV_Syphillis_Duo_and_Hepatitis_Testing",
+    "name": "2026_HIV_Syphillis_Duo_and_Hepatitis_Testing_Index_Mapping",
     "periodType": "Monthly",
-    "created": 1781633290989,
+    "created": 1787601318504,
     "dataSetUID": "ds4TGKprxHe",
-    "periodIndicatorReportGUID": "3704c004-f9d8-40b4-8803-378d11510857",
+    "attributeOptionCombo": "UiRmRhAmkyO",
+    "periodIndicatorReportGUID": "88bfcfba-536f-4be2-84e3-77c3282de11f",
     "elements": [
-        {
+         {
             "indicator": "HIVP<1M",
             "dataElement": "BZZJbBcUVJS",
             "comboOption": "znJ47RCPm25"

@@ -1,9 +1,10 @@
 {
-    "name": "2026_HIV_Syphillis_Duo_and_Hepatitis_Testing",
+    "name": "2026_HIV_SYPHILLIS_DUO_AND_HEPATITIS_B_TESTING_VMMC_Mapping",
     "periodType": "Monthly",
-    "created": 1781633290989,
+    "created": 1787674915376,
     "dataSetUID": "ds4TGKprxHe",
-    "periodIndicatorReportGUID": "3704c004-f9d8-40b4-8803-378d11510857",
+    "attributeOptionCombo": "WgInIEftt5v",
+    "periodIndicatorReportGUID": "0f9de8f4-289b-4231-9369-c0509b688088",
     "elements": [
         {
             "indicator": "HIVP<1M",
@@ -1055,6 +1056,5 @@
             "dataElement": "rd41K9MVsiN",
             "comboOption": "ZlJr9CAq9fV"
         }
-        
     ]
 }
