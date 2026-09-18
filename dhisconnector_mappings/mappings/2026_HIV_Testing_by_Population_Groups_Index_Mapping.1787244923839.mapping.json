@@ -237,6 +237,36 @@
        "indicator": "IndxFInd07",
         "dataElement": "thPNZf3CvAa",
         "comboOption": "rfU1wksAsMD"
+    },
+    {
+       "indicator": "PregWomPos",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "HwSsOJF6lyu"
+    },
+    {
+       "indicator": "PregWomNeg",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "HwSsOJF6lyu"
+    },
+    {
+       "indicator": "PregWomInd",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "HwSsOJF6lyu"
+    },
+    {
+       "indicator": "BFWPos",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "wPZSo8iOXJt"
+    },
+    {
+       "indicator": "BFWNeg",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "wPZSo8iOXJt"
+    },
+    {
+       "indicator": "BFWInd",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "wPZSo8iOXJt"
     }
 ]
 }
