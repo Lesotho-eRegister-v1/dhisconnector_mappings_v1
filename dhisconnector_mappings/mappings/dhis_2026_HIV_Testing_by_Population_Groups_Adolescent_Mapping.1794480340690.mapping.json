@@ -1,0 +1,253 @@
+{
+  "name": "dhis_2026_HIV_Testing_by_Population_Groups_Adolescent_Mapping",
+  "periodType": "Monthly",
+  "created": 1794480340690,
+  "dataSetUID": "H4tjrZW4PKx",
+  "attributeOptionCombo": "H2VlqoRVjhi",
+  "periodIndicatorReportGUID": "c6226890-913c-48d3-8007-5e9b8b8654c3",
+
+  "elements": [
+    {
+      "indicator": "AdolMPos01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HMcYhIiyrur"
+    },
+    {
+      "indicator": "AdolFPos01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HDFIOGNPOt0"
+    },
+    {
+      "indicator": "AdolMPos02",
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "CPRKf51WsR0"
+    },
+    {
+      "indicator": "AdolMPos02",
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "caoEYiFkaDD"
+    },
+    {
+      "indicator": "AdolMPos03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGXuCxPZimc"
+    },
+    {
+      "indicator": "AdolFPos03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HirFnX8hpXX"
+    },
+    {
+      "indicator": "AdolMPos04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HT6XINO7DkR"
+    },
+    {
+      "indicator": "AdolFPos04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hbt8DYAVFHn"
+    },
+    {
+      "indicator": "AdolMPos05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HofyA8E1X0H"
+    },
+    {
+      "indicator": "AdolFPos05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HUJNOP4TRBM"
+    },
+    {
+      "indicator": "AdolMPos06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNxM2HFSD2I"
+    },
+    {
+      "indicator": "AdolFPos06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "AdolMPos07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "AdolFPos07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HCrXQtu96Eh"
+    },
+    {
+      "indicator": "AdolMNeg01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HlSzSVjUigD"
+    },
+    {
+      "indicator": "AdolFNeg01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hng3nY8hxqt"
+    },
+    {
+      "indicator": "AdolMNeg02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HYBEhUaIWYO"
+    },
+    {
+      "indicator": "AdolFNeg02",
+      "dataElement": "cveY8tQlzJ3",
+      "comboOption": "caoEYiFkaDD"
+    },
+    {
+      "indicator": "AdolMNeg03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQGT5VBZB7j"
+    },
+    {
+      "indicator": "AdolMNeg04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HF8mQdZbfRY"
+    },
+    {
+      "indicator": "AdolFNeg04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HtBgSLP8yFv"
+    },
+    {
+      "indicator": "AdolMNeg05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGU0SJJ6GYu"
+    },
+    {
+      "indicator": "AdolFNeg05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HfdWsEVWd73"
+    },
+    {
+      "indicator": "AdolMNeg06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQkCwovFyyY"
+    },
+    {
+      "indicator": "AdolFNeg06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "AdolMNeg07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hxt0afSJybT"
+    },
+    {
+      "indicator": "AdolFNeg07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "H2MRcD9iPnm"
+    },
+    {
+      "indicator": "AdolMInd01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HMUPEpj9gNs"
+    },
+    {
+      "indicator": "AdolFInd01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HfphEFmppnb"
+    },
+    {
+      "indicator": "AdolMInd02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HuemkqAoHEm"
+    },
+    {
+      "indicator": "AdolFInd02",
+      "dataElement": "thPNZf3CvAa",
+      "comboOption": "caoEYiFkaDD"
+    },
+    {
+      "indicator": "AdolMInd03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "AdolFInd03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HVAgcfT4J6n"
+    },
+    {
+      "indicator": "AdolMInd04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HuMJlHyzC3c"
+    },
+    {
+      "indicator": "AdolFInd04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HuPECCxJl8I"
+    },
+    {
+      "indicator": "AdolMInd05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGU0SJJ6GYu"
+    },
+    {
+      "indicator": "AdolFInd05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HiFdEbIdIti"
+    },
+    {
+      "indicator": "AdolMInd06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HE53auCUB0q"
+    },
+    {
+      "indicator": "AdolFInd06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HsZSVFDxcBW"
+    },
+    {
+      "indicator": "AdolMInd07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HLJwdNyVPgi"
+    },
+    {
+      "indicator": "AdolFInd07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "PregWomPos",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGJBnPpv23n"
+    },
+    {
+      "indicator": "PregWomNeg",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "H7Do2R9F1jr"
+    },
+    {
+      "indicator": "PregWomInd",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HS4FaDbMfmK"
+    },
+    {
+      "indicator": "BFWPos",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQ6rLrQiQTl"
+    },
+    {
+      "indicator": "BFWNeg",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HVdvSk47noS"
+    },
+    {
+      "indicator": "BFWInd",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HXglTwW1bBS"
+    }
+  ]
+
+ 
+}

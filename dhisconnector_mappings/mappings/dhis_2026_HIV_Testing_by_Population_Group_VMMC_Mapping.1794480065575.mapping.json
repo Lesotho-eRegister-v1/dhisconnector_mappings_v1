@@ -1,0 +1,254 @@
+{
+  "name": "dhis_2026_HIV_Testing_by_Population_Group_VMMC_Mapping",
+  "periodType": "Monthly",
+  "created": 1794480065575,
+  "dataSetUID": "H4tjrZW4PKx",
+  "attributeOptionCombo": "HGQG4k0z7E3",
+  "periodIndicatorReportGUID": "5edd1171-2c1f-498c-bad7-b263ee072f51",
+
+
+  "elements": [
+    {
+      "indicator": "VmmcMPos01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HMcYhIiyrur"
+    },
+    {
+      "indicator": "VmmcFPos01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HDFIOGNPOt0"
+    },
+    {
+      "indicator": "VmmcMPos02",
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "CPRKf51WsR0"
+    },
+    {
+      "indicator": "VmmcMPos02",
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "caoEYiFkaDD"
+    },
+    {
+      "indicator": "VmmcMPos03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGXuCxPZimc"
+    },
+    {
+      "indicator": "VmmcFPos03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HirFnX8hpXX"
+    },
+    {
+      "indicator": "VmmcMPos04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HT6XINO7DkR"
+    },
+    {
+      "indicator": "VmmcFPos04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hbt8DYAVFHn"
+    },
+    {
+      "indicator": "VmmcMPos05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HofyA8E1X0H"
+    },
+    {
+      "indicator": "VmmcFPos05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HUJNOP4TRBM"
+    },
+    {
+      "indicator": "VmmcMPos06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNxM2HFSD2I"
+    },
+    {
+      "indicator": "VmmcFPos06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "VmmcMPos07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "VmmcFPos07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HCrXQtu96Eh"
+    },
+    {
+      "indicator": "VmmcMNeg01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HlSzSVjUigD"
+    },
+    {
+      "indicator": "VmmcFNeg01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hng3nY8hxqt"
+    },
+    {
+      "indicator": "VmmcMNeg02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HY5HyZ0x0Js"
+    },
+    {
+      "indicator": "VmmcFNeg02",
+      "dataElement": "cveY8tQlzJ3",
+      "comboOption": "caoEYiFkaDD"
+    },
+    {
+      "indicator": "VmmcMNeg03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "VmmcFNeg03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQGT5VBZB7j"
+    },
+    {
+      "indicator": "VmmcMNeg04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HF8mQdZbfRY"
+    },
+    {
+      "indicator": "VmmcFNeg04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HtBgSLP8yFv"
+    },
+    {
+      "indicator": "VmmcMNeg05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGU0SJJ6GYu"
+    },
+    {
+      "indicator": "VmmcFNeg05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HfdWsEVWd73"
+    },
+    {
+      "indicator": "VmmcMNeg06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQkCwovFyyY"
+    },
+    {
+      "indicator": "VmmcFNeg06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "VmmcMNeg07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hxt0afSJybT"
+    },
+    {
+      "indicator": "VmmcFNeg07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "H2MRcD9iPnm"
+    },
+    {
+      "indicator": "VmmcMInd01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HMUPEpj9gNs"
+    },
+    {
+      "indicator": "VmmcFInd01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HfphEFmppnb"
+    },
+    {
+      "indicator": "VmmcMInd02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HuemkqAoHEm"
+    },
+    {
+      "indicator": "VmmcFInd02",
+      "dataElement": "thPNZf3CvAa",
+      "comboOption": "caoEYiFkaDD"
+    },
+    {
+      "indicator": "VmmcMInd03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "VmmcFInd03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HVAgcfT4J6n"
+    },
+    {
+      "indicator": "VmmcMInd04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HuMJlHyzC3c"
+    },
+    {
+      "indicator": "VmmcFInd04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HuPECCxJl8I"
+    },
+    {
+      "indicator": "VmmcMInd05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HZNO7LmUNfT"
+    },
+    {
+      "indicator": "VmmcFInd05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HiFdEbIdIti"
+    },
+    {
+      "indicator": "VmmcMInd06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HE53auCUB0q"
+    },
+    {
+      "indicator": "VmmcFInd06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HsZSVFDxcBW"
+    },
+    {
+      "indicator": "VmmcMInd07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HLJwdNyVPgi"
+    },
+    {
+      "indicator": "VmmcFInd07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "PregWomPos",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGJBnPpv23n"
+    },
+    {
+      "indicator": "PregWomNeg",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "H7Do2R9F1jr"
+    },
+    {
+      "indicator": "PregWomInd",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HS4FaDbMfmK"
+    },
+    {
+      "indicator": "BFWPos",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQ6rLrQiQTl"
+    },
+    {
+      "indicator": "BFWNeg",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HVdvSk47noS"
+    },
+    {
+      "indicator": "BFWInd",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HXglTwW1bBS"
+    }
+  ]
+  
+ 
+}

@@ -1,0 +1,89 @@
+{
+    "name": "dhis_2026_Comorbidities_Diabetes_Mapping",
+    "periodType": "Monthly",
+    "created": 1793103243668,
+    "dataSetUID": "lIrRoBVgmAA",
+    "periodIndicatorReportGUID": "06aa03e6-e844-4198-bcdb-a0910fd7eb93",
+    "elements": [
+        {
+            "indicator": "ScrnMDMch",
+            "dataElement": "N8I3WMDzTVA",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "ScrnFDMch",
+            "dataElement": "N8I3WMDzTVA",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "ScrnMDMad",
+            "dataElement": "N8I3WMDzTVA",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "ScrnFDMad",
+            "dataElement": "N8I3WMDzTVA",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DiagMDMch",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DiagFDMch",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DiagMDMad",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DiagFDMad",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DiaTxMDMCh",
+            "dataElement": "RnO6MFabUMX",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DiaTxFDMCh",
+            "dataElement": "RnO6MFabUMX",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DiaTxMDMAd",
+            "dataElement": "RnO6MFabUMX",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DiaTxFDMAd",
+            "dataElement": "RnO6MFabUMX",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DMMch",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DMFch",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DMMAd",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DMFAd",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "AzfgnzJeoRb"
+        }
+    ]
+}
